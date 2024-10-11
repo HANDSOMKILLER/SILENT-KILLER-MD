@@ -17,10 +17,8 @@
 
 <br>
 
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SILENT%20LOVER&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SILENT%20LOVER%20432%20KING%20OF%20KINGS%20OWNER%20SILENT%20LOVER%20AND%20SOBIA%20BUTT♥️&image=https://i.imgur.com/wjCMCiL.jpeg? v=4&backgroundColor=%23ecf0f1&github=SILENTLOVER4&pattern=leaf&colorPattern=%23eaeaea"/>
+![IMG-20240503-WA0195](https://github.com/user-attachments/assets/c7322806-1cff-4b94-9150-d6e64f167305)
 
-<br>
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
