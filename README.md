@@ -24,17 +24,13 @@
 
 <br>
 
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSILENTKILLER469%2FAWAIS-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHANDSOMKILLER%2FSILENT-KILLER-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
+![forks](https://img.shields.io/github/forks/HANDSOMKILLER/SILENT-KILLER-MD?label=Forks&style=social)
 
-![forks](https://img.shields.io/github/forks/SILENT-KILLER?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/HANDSOMKILLER/SILENT-KILLER-MD?style=social)
 
-
-![stars](https://img.shields.io/github/stars/SILENTLOVER4/SILENT-SOBX-MD?style=social)
-
-
-[![FORK SILENT-SOBX-MD](https://img.shields.io/badge/FORK%20-SILENT%20SOBX%20MD-white)](https://github.com/SILENTLOVER4/SILENT-SOBX-MD/fork)
-
+[![FORK SILENT-KILLER-MD](https://img.shields.io/badge/FORK%20-SILENT%20KILLER%20MD-white)](https://github.com/HANDSOMKILLER/SILENT-KILLER-MD/fork)
 `⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
 
@@ -57,7 +53,7 @@
 
 ### <br> ❖ FOR SUPPORT ❖
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME SILENT✠LOVER⁴³²࿐➺`**
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME SILENT✠KILLER469࿐➺`**
 
 <br>
 <p align="center">
