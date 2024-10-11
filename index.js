@@ -23,7 +23,7 @@ const { File } = require('megajs')
 const bodyparser = require('body-parser')
 const mongoose = require('mongoose')
 
-const ownerNumber = ['923096287432']
+const ownerNumber = ['923254143469']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
