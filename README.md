@@ -55,18 +55,18 @@
 
 **`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME SILENT✠KILLER469࿐➺`**
 
-<br>
 <p align="center">
-  <a href="https://wa.me/+923096287432?text=*ʜɪɪ+sɪʟᴇɴᴛʟᴏᴠᴇʀ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+923254143469?text=*ʜɪɪ+sɪʟᴇɴᴛᴋɪʟʟᴇʀ--+ʜᴏᴡ+ᴀʀᴇ+ʏᴏᴜ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sɪʟᴇɴᴛ-ᴋɪʟʟᴇʀ-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <br>
 
-<a href="https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://whatsapp.com/channel/0029VarkVkoLikg1S62MEt42"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 
 <br>
 
-<a href="https://youtube.com/@silentlover432?si=F1IIc1As0gu3ijqk"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://youtube.com/@silentkiller-469?si=YZb1rx1tEFgUugB7?si=F1IIc1As0gu3ijqk"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+
 
 <br>
 
