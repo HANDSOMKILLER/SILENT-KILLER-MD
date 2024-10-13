@@ -13,11 +13,11 @@ try{
 const config = await readEnv();
 let madeMenu = `❁ ════ ❃•⇆•❃ ════ ❁
 
-*👋 HELLO ${pushname}*\n\n *I AM SILENT LOVER 432*\n\n *I AM 19 YEARS OLD BOY 🔞*\n\n *I AM FROM PERSNOL HAI😁🙈*\n\n *I AM SIMPLE WHATSAPP BOT DEVELOPER👨‍💻*\n\n\n *THANK YOU.😊*
+*👋 ASSALAM-O-ALAIKUM ${pushname}*\n\n *I AM SILENT KILLER⁴⁶⁹*\n\n *I AM 19 YEARS OLD BOY 🔞*\n\n *I AM FROM YOUR HEART🫶🙈*\n\n *I AM SIMPLE WHATSAPP BOT DEVELOPER👨‍💻*\n\n\n *THANK YOU.😊*
 
 ❁ ════ ❃•⇆•❃ ════ ❁
-
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛ_ʟᴏᴠᴇʀ⁴³²*
+ســـؔــر آنکھـــؔــوں👀 پـــؔــر وہ لـــؔــوگ جـــؔــو منـــؔـافقـــؔـت نہیـــؔـں کرتـــؔــے 🙌🏻🔥🍾
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛ_ᴋɪʟʟᴇʀ⁴⁶⁹*
 
 ╰━❁ ═══ ❃•⇆•❃ ═══ ❁━╯
 `
