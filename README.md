@@ -87,17 +87,19 @@ mongodb+srv://suhail:suhail@clustere.tuhzpez.mongodb.net/?retryWrites=true&w=maj
 
 <br>
 
+
 <p align="left">
 <a href="https://pair-web-public.koyeb.app/"><img height= "35" title="Author" src="https://img.shields.io/badge/SESSION ID-green?style=for-the-badge&logo=render"></a>
 <p/>
  
 ### <br>   ❖ DEPLOY_HEROKU ❖
 
-`✠ IF YOU WANT TO DEPLO SILENT-KILLER-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+`✠ IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
 <br>
+
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/SILENTKILLER/SILENT-KILLER-MD
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/SILENTLOVER4/SILENT-SOBX-MD)
 
 ### <br>    ❖ DEPLOY_REPLIT ❖
 
@@ -114,33 +116,3 @@ mongodb+srv://suhail:suhail@clustere.tuhzpez.mongodb.net/?retryWrites=true&w=maj
 <br>
 
 <p align="left"><a href="https://app.koyeb.com/apps/deploy? type=git&repository=github.com%2FSILENTLOVER4%2FSILENT-SOBX-MD&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[ALIVE_IMG]=your+image+url&env[ALIVE_MESSAGE]=your+alive+text"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" height="30"/></a></p>
-
-### <br>  ❖ DEPLOY_RAILWAY ❖
-
-`✠ IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY SILENT-SOBX-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
-
-<br>
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-<br>
-
-`⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
-
-<br>
-
-![IMG-20240330-WA0000](https://github.com/user-attachments/assets/62d3bffd-d1ec-4cb9-a5b1-28b745b90a90)
-
-
-<br>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<br>
-
-![license](https://img.shields.io/github/license/SILENTLOVER4/SILENT-SOBX-MD?color=green&label=License&style=plastic)
