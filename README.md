@@ -1,3 +1,6 @@
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 <div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-KILLER-MD/count.svg" /><br>𝗦𝗜𝗟𝗘𝗡𝗧-𝗞𝗜𝗟𝗟𝗘𝗥-469</div>
 
