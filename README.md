@@ -75,7 +75,7 @@
 ### <br> ❖ DEPLOY AND SESSION METHOD ❖
 <br>
 
-`✠ IF YOU DON'T HAVE YOUR PRIVATE MONGODB KEY SO YOU CAN USE THIS PUBLIC KEY FOR DEPLOY SILENT-SOBX-MD BOT ✠`
+`✠ IF YOU DON'T HAVE YOUR PRIVATE MONGODB KEY SO YOU CAN USE THIS PUBLIC KEY FOR DEPLOY SILENT-KILLEE-MD BOT ✠`
 
 ```
 mongodb+srv://suhail:suhail@clustere.tuhzpez.mongodb.net/?retryWrites=true&w=majority
@@ -93,11 +93,11 @@ mongodb+srv://suhail:suhail@clustere.tuhzpez.mongodb.net/?retryWrites=true&w=maj
  
 ### <br>   ❖ DEPLOY_HEROKU ❖
 
-`✠ IF YOU WANT TO DEPLO SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+`✠ IF YOU WANT TO DEPLO SILENT-KILLER-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
 <br>
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/SILENTLOVER4/SILENT-SOBX-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/SILENTKILLER/SILENT-KILLER-MD
 
 ### <br>    ❖ DEPLOY_REPLIT ❖
 
