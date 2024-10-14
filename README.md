@@ -1,23 +1,12 @@
-<p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=AVISHKA+SHAVINDA" alt="">
-</p> 
- 
-<p align="center"> 
-<u> 🗡️PRINE-AVI-MD🗡️</u>
+
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/avishka33/PRINCE-AVI-MD-X/main/AVI.jpg" width="300" height="300"/>
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SILENT+KILLER+469" alt="">
 </p>
-<p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=AVI+NET+HUNTER" alt="">
-</p>
-<p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-AVI-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/darkmakerofc?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/darkmakerofc/Queen-Elisa-MD-V2?color=white&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/darkmakerofc/Queen-Elisa-MD-V2?color=yellow&style=flat-square"></a>
+
+<a href="https://github.com/HANDSOMKILLER/SILENT-KILLER-MD?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
+<a href="https://github.com/HANDSOMKILLER/SILENT-KILLER-Md-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HANDSOMKILLER/SILENT-KILLER-MD?color=white&style=flat-square"></a>
+<a href="https://github.com/HANDSOMKILLER/SILENT-KILLER-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HANDSOMKILLER/SILENT-KILLER-MD?color=yellow&style=flat-square"></a>
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/darkmakerofc/Queen-Elisa-MD-V2?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
@@ -35,34 +24,6 @@
 <br>
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
-<br>
-
- <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`SILENT+-+Killer+-+MD+WHATSAPP+BOT`" alt="">
-
-<br>
-
-![IMG-20240503-WA0195](https://github.com/user-attachments/assets/c7322806-1cff-4b94-9150-d6e64f167305)
-
-
-`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
-
-<br>
-
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHANDSOMKILLER%2FSILENT-KILLER-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
-
-![forks](https://img.shields.io/github/forks/HANDSOMKILLER/SILENT-KILLER-MD?label=Forks&style=social)
-
-![stars](https://img.shields.io/github/stars/HANDSOMKILLER/SILENT-KILLER-MD?style=social)
-
-[![FORK SILENT-KILLER-MD](https://img.shields.io/badge/FORK%20-SILENT%20KILLER%20MD-white)](https://github.com/HANDSOMKILLER/SILENT-KILLER-MD/fork)
-`⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
-
-
-<br>
-
-</a>
-</p>
 
 <br>
 
