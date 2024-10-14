@@ -12,8 +12,17 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 <br>
-
+<br>
 <div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-KILLER-MD/count.svg" /><br>𝗦𝗜𝗟𝗘𝗡𝗧-𝗞𝗜𝗟𝗟𝗘𝗥-469</div>
+
+ <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`SILENT+-+Killer+-+MD+WHATSAPP+BOT`" alt="">
+
+<br>
+
+![IMG-20240503-WA0195](https://github.com/user-attachments/assets/c7322806-1cff-4b94-9150-d6e64f167305)
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 
 <br>
 
