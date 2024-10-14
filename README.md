@@ -102,7 +102,7 @@ mongodb+srv://suhail:suhail@clustere.tuhzpez.mongodb.net/?retryWrites=true&w=maj
 <br>
 
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=[https://github.com/SILENT-KILLER-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/HANDSOMKILLER/SILENT-KILLER-MD)
 
 ### <br>    ❖ DEPLOY_REPLIT ❖
 
