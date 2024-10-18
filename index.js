@@ -12,6 +12,7 @@ Browsers
 const l = console.log
 const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, fetchJson } = require('./lib/functions')
 const fs = require('fs')
+const ff = require('fluent-ffmpeg')
 const P = require('pino')
 const config = require('./config')
 const qrcode = require('qrcode-terminal')
@@ -20,10 +21,11 @@ const util = require('util')
 const { sms,downloadMediaMessage } = require('./lib/msg')
 const axios = require('axios')
 const { File } = require('megajs')
+const { fromBuffer } = require('file-type')
 const bodyparser = require('body-parser')
 const mongoose = require('mongoose')
 
-const ownerNumber = ['923254143469']
+const ownerNumber = ['923096287432']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -82,24 +84,24 @@ require("./plugins/" + plugin);
 console.log('ᴘʟᴜɢɪɴs ɪɴsᴛᴀʟʟᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ✅')
 console.log('sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ᴡʜᴀᴛsᴀᴘᴘ ✅')
 
-let up = `➺sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²✅
+let up = `> *➺sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²✅*
 
-*❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
+> *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
 
 https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s🔰
 
-*❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
+> *❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
 
 https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7🔰
 
-╭⊱✫🔮✠sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ🔮✫⊱╮
-│✫ - *📂Repository Name:* SILENT-SOBX-MD
-│✫ - *📃Description:* ❁ᴡᴏʀʟᴅ ʙᴇsᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ❁
-│✫ - *🛡️Owner:* sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²
-│✫ - *🌐 URL:* https://github.com/SILENTLOVER4/SILENT-SOBX-MD
+╭⊱✫🔮 SILENT-SOBX-MD 🔮✫⊱╮
+│✫➠ - *📂REPOSITORY NAME:* SILENT-SOBX-MD
+│✫➠ - *📃DESCRIPTION:* ❁ᴡᴏʀʟᴅ ʙᴇsᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ❁
+│✫➠ - *🛡️OWNER:* sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²
+│✫➠ - *🌐 URL:* https://github.com/SILENTLOVER4/SILENT-SOBX-MD
 ╰━━━━━━━━━━━━━━━━━╯
 
-YOUR BOT ACTIVE NOW ENJOY♥️🪄\n\nPREFIX: ${prefix}`;
+*YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\nPREFIX: ${prefix}`;
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/2a06381b260c3f096a612.jpg` }, caption: up })
 
 }
@@ -141,7 +143,7 @@ const isReact = m.message.reactionMessage ? true : false
 const reply = (teks) => {
 conn.sendMessage(from, { text: teks }, { quoted: mek })
 }
-
+        
 conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
               let mime = '';
               let res = await axios.head(url)
@@ -174,10 +176,13 @@ if(senderNumber.includes("923154647639")){
 if(isReact) return
 m.react("👑")
 }
-//==========================public react
-if (m.type === 'text' && isReact) {
-  m.react("💖");
+
+if(senderNumber.includes("923251869133")){
+if(isReact) return
+m.react("🦋")
 }
+//==========================public react
+
 //============================        
         
 //=================================WORKTYPE=========================================== 
