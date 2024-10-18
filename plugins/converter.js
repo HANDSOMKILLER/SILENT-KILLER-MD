@@ -1,8 +1,4 @@
 const fs = require('fs');
-const ff = require('fluent-ffmpeg');
-const { Image } = require("node-webpmux");
-const { fromBuffer } = require('file-type');
-const { Sticker, StickerTypes } = require("wa-sticker-formatter");
 const axios = require("axios");
 const {cmd , commands} = require('../command');
 
