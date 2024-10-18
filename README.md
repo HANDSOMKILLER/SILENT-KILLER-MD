@@ -3,11 +3,14 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">
-<a href="https://github.com/HANDSOMKILLER/SILENT-KILLER-MD"><img title="Followers" src="https://img.shields.io/github/followers/HANDSOMKILLER?color=blue&style=flat-square"></a>
-<a href="https://github.com/HANDSOMKILLER/SILENT-SILENT-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HANDSOMKILLER/SILENT-KILLER-MD?color=blue&style=flat-square"></a>ref="https://github.com/SILENTLOVER4/SILENT-SOBX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SILENTLOVER4/SILENT-SOBX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SILENTLOVER4/SILENT-SOBX-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/SILENTLOVER4/SILENT-SOBX-MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/SILENTLOVER4/SILENT-SOBX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-<br>
+<a href="https://github.com/HANSOMEKILLER/"><img title="Followers" src="https://img.shields.io/github/followers/HANDSOMKILLER?color=blue&style=flat-square"></a>
+<a href="https://github.com/HANSOMKILLER/SILENT-KILLER-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HANDSOMKILLER/SILENT-KILLER-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/HANDSOMKILLER/SILENT-KILLER-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HANDSOMKILLER/SILENT-KILLER-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/HANSOMKILLER/SILENT-KILLER-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/HANDSOMKILLER/SILENT-KILLER-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/HANDSOMKILLER/SILENT-KILLER-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+</p>
 <br>
 <div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-KILLER-MD/count.svg" /><br>𝗦𝗜𝗟𝗘𝗡𝗧-𝗞𝗜𝗟𝗟𝗘𝗥-469</div>
 
@@ -19,10 +22,8 @@
 ![IMG-20240503-WA0195](https://github.com/user-attachments/assets/c7322806-1cff-4b94-9150-d6e64f167305)
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
-
 <br>
-
-
+              👀
 ### <br>  ❖ SILENT-KILLER-MD ❖
 🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY ❉্᭄͜͡ *🅐︎ᴡᴀɪs 🅙︎ᴀɴɪɪ* ❉্᭄͜͡// SILENT.KILLER 469`** 🔰
 
