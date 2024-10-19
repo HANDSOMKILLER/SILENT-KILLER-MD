@@ -14,7 +14,7 @@ async (conn, mek, m, { from, q, reply, isOwner }) => {
     if (!isOwner) return;
 
     if (!q) {
-        return reply("🙇‍♂️ *Please provide the environment variable and its new value.* \n\nExample: `.update ALIVE_MSG: ʜᴇʟʟᴏ ɪ ᴀᴍ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²`");
+        return reply("🙇‍♂️ *Please provide the environment variable and its new value.* \n\nExample: `.update ALIVE_MSG: ʜᴇʟʟᴏ ɪ ᴀᴍ sɪʟᴇɴᴛ ᴋɪʟʟᴇʀ`");
     }
 
     // Find the position of the first colon or comma
@@ -74,5 +74,3 @@ async (conn, mek, m, { from, q, reply, isOwner }) => {
     } catch (err) {
         console.error('Error updating environment variable:' + err.message);
         reply("🙇‍♂️ *Failed to update the environment variable. Please try again.*" + err);
-    }
-});
