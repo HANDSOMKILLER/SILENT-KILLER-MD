@@ -14,7 +14,7 @@ cmd({
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 var inital = new Date().getTime();
-let ping = await conn.sendMessage(from , { text: '*_ZINDA HUU_*'  }, { quoted: mek } )
+let ping = await conn.sendMessage(from , { text: '*_ɪ ʟᴏᴠᴇ ʏᴏᴜ 😘_*'  }, { quoted: mek } )
 var final = new Date().getTime();
 await conn.sendMessage(from, { delete: ping.key })
 return await conn.sendMessage(from , { text: '*🔥Pong*\n *' + (final - inital) + ' ms* '  }, { quoted: mek } )
