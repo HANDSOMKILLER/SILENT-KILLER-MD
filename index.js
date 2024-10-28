@@ -24,6 +24,9 @@ const { File } = require('megajs')
 const { fromBuffer } = require('file-type')
 const bodyparser = require('body-parser')
 const mongoose = require('mongoose')
+const { tmpdir } = require('os')
+const Crypto = require('crypto')
+const path = require('path')
 
 const ownerNumber = ['923096287432']
 
@@ -54,7 +57,7 @@ const config = await readEnv();
 const prefix = ('.')
 //=================================
         
-console.log("ᴄᴏɴɴᴇᴄᴛɪɴɢ sɪʟᴇɴᴛ-ᴋɪʟʟᴇʀ-ᴍᴅ ʙᴏᴛ 🧬...");
+console.log("ᴄᴏɴɴᴇᴄᴛɪɴɢ sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ʙᴏᴛ 🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -82,27 +85,27 @@ require("./plugins/" + plugin);
 }
 });
 console.log('ᴘʟᴜɢɪɴs ɪɴsᴛᴀʟʟᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ✅')
-console.log('sɪʟᴇɴᴛ-ᴋɪʟʟᴇʀ-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ᴡʜᴀᴛsᴀᴘᴘ ✅')
+console.log('sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ᴡʜᴀᴛsᴀᴘᴘ ✅')
 
-let up = `> *➺sɪʟᴇɴᴛ-ᴋɪʟʟᴇʀ-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ᴋɪʟʟᴇʀ⁴⁶⁹✅*
+let up = `> *➺sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²✅*
 
-> *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-ᴋɪʟʟᴇʀ-ᴍᴅ❁*
+> *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
 
-https://whatsapp.com/channel/0029VarkVkoLikg1S62MEt42
+*https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s*
 
-> *❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-ᴋɪʟʟᴇʀ-ᴍᴅ❁*
+> *❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
 
-https://youtube.com/@silentkiller-469?si=Df7qG5mAryGdb84Z
+*https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7*
 
-╭⊱✫🔮 SILENT-KILLER-MD 🔮✫⊱╮
-│✫➠ - *📂REPOSITORY NAME:* SILENT-KILLER-MD
+╭⊱✫🔮 SILENT-SOBX-MD 🔮✫⊱╮
+│✫➠ - *📂REPOSITORY NAME:* SILENT-SOBX-MD
 │✫➠ - *📃DESCRIPTION:* ❁ᴡᴏʀʟᴅ ʙᴇsᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ❁
-│✫➠ - *🛡️OWNER:* sɪʟᴇɴᴛ ᴋɪʟʟᴇʀ
-│✫➠ - *🌐 URL:* https://github.com/HANDSOMKILLER/SILENT-KILLER-MD
+│✫➠ - *🛡️OWNER:* sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²
+│✫➠ - *🌐 URL:* https://github.com/SILENTLOVER40/SILENT-SOBX-MD
 ╰━━━━━━━━━━━━━━━━━╯
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\nPREFIX: ${prefix}`;
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/2a06381b260c3f096a612.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/h5ddpq.jpg` }, caption: up })
 
 }
 })
@@ -167,17 +170,17 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
             }
 
 //================ownerreact
-if(senderNumber.includes("923254143469")){
+if(senderNumber.includes("923096287432")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("923130433361")){
+if(senderNumber.includes("923154647639")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("923479499476")){
+if(senderNumber.includes("923251869133")){
 if(isReact) return
 m.react("🦋")
 }
@@ -190,6 +193,7 @@ if(!isOwner && config.MODE === "private") return
 if(!isOwner && isGroup && config.MODE === "inbox") return
 if(!isOwner && isGroup && config.MODE === "groups") return
 //======================================================
+
 
 
 
@@ -229,7 +233,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY, SILENT-killer-MD STARTED ✅");
+res.send("HEY, SILENT-SOBX-MD STARTED ✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
