@@ -28,7 +28,7 @@ const { tmpdir } = require('os')
 const Crypto = require('crypto')
 const path = require('path')
 
-const ownerNumber = ['923096287432']
+const ownerNumber = [923130433361 ']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -38,7 +38,7 @@ const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
 fs.writeFile(__dirname + '/auth_info_baileys/creds.json', data, () => {
-console.log("Session downloaded ✅")
+console.log("SESSION DOWNLOADED COMPLETED ✅")
 })})}
 
 const express = require("express");
@@ -57,7 +57,7 @@ const config = await readEnv();
 const prefix = ('.')
 //=================================
         
-console.log("ᴄᴏɴɴᴇᴄᴛɪɴɢ sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ʙᴏᴛ 🧬...");
+console.log("CONNECTING SILENT-KILLER-MD BOT🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -77,35 +77,39 @@ if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
 } else if (connection === 'open') {
-console.log('😼 ɪɴsᴛᴀʟʟɪɴɢ ᴘʟᴜɢɪɴs ғɪʟᴇs ᴘʟᴢ ᴡᴀɪᴛ... ')
+console.log('♻️ INSTALLING PLUGINS FILES PLEASE WAIT... 🪄')
 const path = require('path');
 fs.readdirSync("./plugins/").forEach((plugin) => {
 if (path.extname(plugin).toLowerCase() == ".js") {
 require("./plugins/" + plugin);
 }
 });
-console.log('ᴘʟᴜɢɪɴs ɪɴsᴛᴀʟʟᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ✅')
-console.log('sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ᴡʜᴀᴛsᴀᴘᴘ ✅')
+console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
+console.log('SILENT-KILLER-MD CONNECTED TO WHATSAPP ENJOY ✅')
 
-let up = `> *➺sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²✅*
+let up = `> *➺sɪʟᴇɴᴛ-ᴋɪʟʟᴇᴛ-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²✅*
 
-> *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
+> *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-ᴋɪʟʟʀʀ-ᴍᴅ❁*
 
-*https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s*
+*https://whatsapp.com/channel/0029VarkVkoLikg1S62MEt42*
 
-> *❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
+> *❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-ᴋɪʟʟᴇʀ-ᴍᴅ❁*
 
-*https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7*
+*https://youtube.com/@silentkiller-469?si=msRRHb3cTnGbGXoN*
 
-╭⊱✫🔮 SILENT-SOBX-MD 🔮✫⊱╮
-│✫➠ - *📂REPOSITORY NAME:* SILENT-SOBX-MD
-│✫➠ - *📃DESCRIPTION:* ❁ᴡᴏʀʟᴅ ʙᴇsᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ❁
-│✫➠ - *🛡️OWNER:* sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²
-│✫➠ - *🌐 URL:* https://github.com/SILENTLOVER40/SILENT-SOBX-MD
+╭⊱✫🔮 SILENT-KILLER-MD 🔮✫⊱╮
+│✫➠ - *📂REPOSITORY NAME:* SILENT-KILLER-MD
+│✫➠ - *📃DESCRIPTION:* ســـؔــر آنکھـــؔــوں👀 پـــؔــر وہ لـــؔــوگ جـــؔــو منـــؔـافقـــؔـت نہیـــؔـں کرتـــؔــے 🙌🏻🔥🍾*
+
+
+│✫➠ - *🛡️OWNER:* sɪʟᴇɴᴛ ᴋɪʟʟᴇʀ⁴⁶⁹
+│✫➠ - *🌐 URL:* https://github.com/HANDSOMKILLER/SILENT-KILLER
+
+-MD
 ╰━━━━━━━━━━━━━━━━━╯
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\nPREFIX: ${prefix}`;
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/h5ddpq.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/4487765249bd281207a72.jpg` }, caption: up })
 
 }
 })
@@ -170,17 +174,20 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
             }
 
 //================ownerreact
-if(senderNumber.includes("923096287432")){
+if(senderNumber.includes("923130433361")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("923154647639")){
+if(senderNumber.includes("923254143469")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("923251869133")){
+if(senderNumber.includes("923204328413
+                         
+                         
+                         ")){
 if(isReact) return
 m.react("🦋")
 }
@@ -233,7 +240,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY, SILENT-SOBX-MD STARTED ✅");
+res.send("HEY, SILENT-KILLER-MD STARTED ✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
