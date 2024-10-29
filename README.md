@@ -16,7 +16,10 @@
 
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`SILENT+-+Killer+-+MD+WHATSAPP+BOT`" alt="">
+<br>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
 
 ![IMG-20240503-WA0195](https://github.com/user-attachments/assets/c7322806-1cff-4b94-9150-d6e64f167305)
