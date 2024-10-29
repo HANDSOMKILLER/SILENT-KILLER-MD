@@ -191,8 +191,11 @@ if(senderNumber.includes("923204328413
 if(isReact) return
 m.react("🦋")
 }
-//==========================public react
 
+//==========================public react===============//
+if (!isReact && senderNumber !== botNumber) {
+    m.react("💖");
+}
 //============================        
         
 //=================================WORKTYPE=========================================== 
