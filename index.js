@@ -28,7 +28,7 @@ const { tmpdir } = require('os')
 const Crypto = require('crypto')
 const path = require('path')
 
-const ownerNumber = [923130433361 ']
+const ownerNumber = ['923130433361']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
