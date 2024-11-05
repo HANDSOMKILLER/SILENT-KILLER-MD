@@ -1,3 +1,5 @@
+
+
 const {
 default: makeWASocket,
 useMultiFileAuthState,
@@ -27,8 +29,9 @@ const mongoose = require('mongoose')
 const { tmpdir } = require('os')
 const Crypto = require('crypto')
 const path = require('path')
+const gifted = require('gifted-dls')
 
-const ownerNumber = ['923130433361']
+const ownerNumber = ['923096287432']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -57,7 +60,7 @@ const config = await readEnv();
 const prefix = ('.')
 //=================================
         
-console.log("CONNECTING SILENT-KILLER-MD BOT🧬...");
+console.log("CONNECTING SILENT-SOBX-MD BOT🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -85,31 +88,29 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('SILENT-KILLER-MD CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('SILENT-SOBX-MD CONNECTED TO WHATSAPP ENJOY ✅')
 
-let up = `> *➺sɪʟᴇɴᴛ-ᴋɪʟʟᴇᴛ-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²✅*
+let up = `*╭──────────────●●►*
+> *➺sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²✅*
 
-> *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-ᴋɪʟʟʀʀ-ᴍᴅ❁*
+> *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
 
-*https://whatsapp.com/channel/0029VarkVkoLikg1S62MEt42*
+*https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s*
 
-> *❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-ᴋɪʟʟᴇʀ-ᴍᴅ❁*
+> *❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
 
-*https://youtube.com/@silentkiller-469?si=msRRHb3cTnGbGXoN*
+*https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7*
 
-╭⊱✫🔮 SILENT-KILLER-MD 🔮✫⊱╮
-│✫➠ - *📂REPOSITORY NAME:* SILENT-KILLER-MD
-│✫➠ - *📃DESCRIPTION:* ســـؔــر آنکھـــؔــوں👀 پـــؔــر وہ لـــؔــوگ جـــؔــو منـــؔـافقـــؔـت نہیـــؔـں کرتـــؔــے 🙌🏻🔥🍾*
+*╭⊱✫🔮 SILENT-SOBX-MD 🔮✫⊱╮*
+*│✫➠ - 📂REPOSITORY NAME:* *SILENT-SOBX-MD*
+*│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
+*│✫➠ - 🛡️OWNER:* *SILENT LOVER⁴³²*
+*│✫➠ - 🌐URL:* *https://github.com/SILENTLOVER40/SILENT-SOBX-MD*
 
+*YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
 
-│✫➠ - *🛡️OWNER:* sɪʟᴇɴᴛ ᴋɪʟʟᴇʀ⁴⁶⁹
-│✫➠ - *🌐 URL:* https://github.com/HANDSOMKILLER/SILENT-KILLER
-
--MD
-╰━━━━━━━━━━━━━━━━━╯
-
-*YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\nPREFIX: ${prefix}`;
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/4487765249bd281207a72.jpg` }, caption: up })
+*╰──────────────●●►*`;
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/h5ddpq.jpg` }, caption: up })
 
 }
 })
@@ -174,28 +175,27 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
             }
 
 //================ownerreact
-if(senderNumber.includes("923130433361")){
+if(senderNumber.includes("923096287432")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("923254143469")){
+if(senderNumber.includes("923154647639")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("923204328413
-                         
-                         
-                         ")){
+if(senderNumber.includes("923251869133")){
 if(isReact) return
 m.react("🦋")
 }
-
 //==========================public react===============//
 if (!isReact && senderNumber !== botNumber) {
     m.react("💖");
 }
+if (!isReact && senderNumber === botNumber) {
+    m.react("🤗");
+}                
 //============================        
         
 //=================================WORKTYPE=========================================== 
@@ -243,7 +243,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY, SILENT-KILLER-MD STARTED ✅");
+res.send("HEY, SILENT-SOBX-MD STARTED ✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
