@@ -64,7 +64,7 @@ if (!isAdmins) return reply(ADMIN)
                 reply(`Close time ${q} starting from now`)
                 setTimeout(() => {
                     var nomor = m.participant
-                    const close = `*CLOSE TIME* GROUP CLOSED BY SILENT-SOBX-MD AT APPROVED ADMIN\nNOW ONLY ADMIN CAN SEND MESSAGES 🔐`
+                    const close = `*CLOSE TIME* GROUP CLOSED BY SILENT-KILLER-MD AT APPROVED ADMIN\nNOW ONLY ADMIN CAN SEND MESSAGES 🔐`
                     conn.groupSettingUpdate(from, 'announcement')
                     reply(close)
                 }, timer)
@@ -104,6 +104,6 @@ try{
         await conn.sendMessage(from, { text: adminTagMessage, mentions: admins }, { quoted: mek });
     } catch (e) {
         console.error('Error tagging admins:', e);
-        reply('you are not an admin.');
+        reply(' BC you are not an admin.');
     }
 })
