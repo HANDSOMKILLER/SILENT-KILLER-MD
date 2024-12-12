@@ -29,7 +29,6 @@ const mongoose = require('mongoose')
 const { tmpdir } = require('os')
 const Crypto = require('crypto')
 const path = require('path')
-const gifted = require('gifted-dls')
 
 const ownerNumber = ['923096287432']
 
