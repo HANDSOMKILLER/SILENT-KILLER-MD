@@ -141,5 +141,5 @@ mongodb+srv://suhail:suhail@clustere.tuhzpez.mongodb.net/?retryWrites=true&w=maj
 
 <br>
 
-![license](https://img.shields.io/github/license/HANDSOMKILLER?color=green&label=License&style=plastic)
+![license]
 
