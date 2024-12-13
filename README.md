@@ -141,5 +141,5 @@ mongodb+srv://suhail:suhail@clustere.tuhzpez.mongodb.net/?retryWrites=true&w=maj
 
 <br>
 
-![license](https://img.shields.io/github/license/SILENTLOVER40/SILENT-SOBX-MD?color=green&label=License&style=plastic)
+![license](https://img.shields.io/github/license/HANDSOMKILLER/SILENT-KILLER-MD?color=green&label=License&style=plastic)
 
