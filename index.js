@@ -30,7 +30,7 @@ const { tmpdir } = require('os')
 const Crypto = require('crypto')
 const path = require('path')
 
-const ownerNumber = ['923096287432']
+const ownerNumber = [923254143469']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -40,7 +40,7 @@ const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
 fs.writeFile(__dirname + '/auth_info_baileys/creds.json', data, () => {
-console.log("SESSION DOWNLOADED COMPLETED ✅")
+console.log("SILENT-KILLER-MD SESSION DOWNLOADED COMPLETED ✅")
 })})}
 
 const express = require("express");
