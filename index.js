@@ -59,7 +59,7 @@ const config = await readEnv();
 const prefix = ('.')
 //=================================
         
-console.log("CONNECTING SILENT-SOBX-MD BOT🧬...");
+console.log("CONNECTING S®k-MD BOT🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -87,7 +87,7 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('SILENT-SOBX-MD CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('SILENT-KILLEE-MD CONNECTED TO WHATSAPP CHILL✅')
 
 let up = `*╭──────────────●●►*
 > *➺sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²✅*
